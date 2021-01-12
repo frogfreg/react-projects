@@ -1,0 +1,12 @@
+.lane-wrapper {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  background: lightGray;
+  border-radius: 20px;
+  min-height: 50vh;
+  width: 20vw;
+  @media (max-width: 768px) {
+    margin-bottom: 5%;
+  }
+}
